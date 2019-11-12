@@ -1,0 +1,8 @@
+
+
+git config --global user.name "Bouhid"
+
+git config --global user.email "dbouhid@gmail.com"
+
+git clone https://github.com/Bouhid/CursoDataSience.git
+
