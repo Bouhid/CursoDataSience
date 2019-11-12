@@ -6,3 +6,10 @@ git config --global user.email "dbouhid@gmail.com"
 
 git clone https://github.com/Bouhid/CursoDataSience.git
 
+git add SetupGit.txt
+
+git commit -m "Primeiro Commit do arquivo" SetupGit.txt
+
+git push -u origin master
+
+git status
